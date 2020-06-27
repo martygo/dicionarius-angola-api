@@ -34,3 +34,7 @@ retornará um json com todos os verbetes, significados e exemplos: <br>
 * Execute `npm install ou yarn add` para instalar as dependências do projeto
 * Faça as suas modificações e da um pull request
 * Enjoy 🥰🥰
+
+## Contribuidores
+
+* <a href="https://github.com/Rubalaine">Rubalaine</a>
