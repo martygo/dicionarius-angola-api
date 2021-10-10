@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://dicionarius-angola.herokuapp.com/">dicionarius.api</a> é uma API RESTful com verbetes comuns usados no dia-a-dia em Angola desenvolvido com Node.js + Express 🚀 - <a href="https://dicionarius-angola.herokuapp.com/">Visualizar</a>.
+  <a href="https://dicionarius-angola.herokuapp.com/">dicionarius.api</a> é uma API RESTful com verbetes comuns usados no dia-a-dia em Angola desenvolvido com Node.js + Express 🚀 - <a href="https://dicionarius-angola.herokuapp.com/" target="_blank">Visualizar</a>.
 </p>
 
 ## Como consumir a API 🧐
